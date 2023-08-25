@@ -1,0 +1,5 @@
+Name : Uzair Farooq
+
+Admission Number : 134253
+
+Title of Project : An Association Rule Mining Model for E-Commerce Businesses: A Case Study of Brainstorm Solutions Limited, Nairobi
