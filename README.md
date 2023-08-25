@@ -5,7 +5,7 @@ Brainstorm Solutions Limited faces challenges in effectively implementing associ
 This project aims to develop an Association Rule Mining Model that will optimize bundle recommendations tailored for Brainstorm Solutions Limited by analysing customer transaction and product preferences to discover valuable patterns and associations, enabling the identification of cross-selling and upselling opportunities.
 
 The Objectives are as follows:
-
+#
 * To identify market basket analysis challenges related to knowing which products to recommend to customers
 * To review Association Rule Mining Algorithms that can be used for providing bundle recommendations.
 * To train an association rule mining model using historical data.
